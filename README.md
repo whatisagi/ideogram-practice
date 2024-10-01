@@ -1,8 +1,9 @@
 # ideogram-practice
 
 This repo is inspired from the awesome app [ideogram](https://ideogram.ai/).
-There are similarities and differences with the original app. Below are some of the main
-points:
+There are similarities and differences with the original app.
+
+The video is shown at [./video.mov](./video.mov), and some important points are mentioned after:
 
 - The UI is responsive.
 
